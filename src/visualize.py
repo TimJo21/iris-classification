@@ -1,4 +1,4 @@
-visualize.py에 아래 그대로 추가:import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
 import numpy as np
