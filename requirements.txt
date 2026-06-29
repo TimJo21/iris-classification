@@ -1,4 +1,4 @@
-%%writefile requirements.txt
+writefile requirements.txt
 scikit-learn
 joblib
 numpy
