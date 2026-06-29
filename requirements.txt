@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+scikit-learn
+joblib
+numpy
+pandas
+matplotlib
